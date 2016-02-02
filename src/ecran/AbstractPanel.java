@@ -1,5 +1,10 @@
 package ecran;
 
-public class AbstractPanel {
+import javax.swing.JPanel;
 
+@SuppressWarnings("serial")
+public class AbstractPanel extends JPanel {
+
+	
+	
 }
